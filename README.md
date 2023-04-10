@@ -13,7 +13,7 @@ The motorcycle wheels’ thickness is negligible,
 
 Friction between all the moving objects is negligible.
 
-####state-space format
+#### state-space format
 
 ![state vector](https://user-images.githubusercontent.com/120835150/231003639-05ec4749-4dea-4d8b-be68-265e32c27a2e.PNG)
 
